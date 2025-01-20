@@ -1,2 +1,2 @@
-# tf-azurerm-securestorage
-tf-azurerm-securestorage
+# terraform-azurerm-securestorage
+terraform-azurerm-securestorage
